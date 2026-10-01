@@ -1,0 +1,6 @@
+{
+  "name": "EcoLeaf",
+  "description": "AI Plant Disease Diagnostics running locally on-device with instant remedies and care tips",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

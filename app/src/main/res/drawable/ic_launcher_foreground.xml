@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Left Leaf Silhouette (Deep Plum) -->
+    <path
+        android:fillColor="#5E2750"
+        android:pathData="M54,26 C36,36 34,58 54,78 C50,62 50,44 54,26 Z" />
+
+    <!-- Right Scanning Bracket (Terracotta Coral) -->
+    <path
+        android:strokeColor="#D9534F"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M55,27 C72,34 76,46 72,56" />
+
+    <!-- Right Bottom Bracket (Deep Plum) -->
+    <path
+        android:strokeColor="#5E2750"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M68,68 C63,74 58,77 54,78" />
+
+    <!-- Focus Aperture Dot (Golden Amber) -->
+    <path
+        android:fillColor="#D98A2B"
+        android:pathData="M65,49 A4.5,4.5 0 1,0 65,50 Z" />
+</vector>

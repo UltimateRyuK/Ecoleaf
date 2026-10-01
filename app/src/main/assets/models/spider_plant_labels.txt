@@ -1,0 +1,3 @@
+SpiderPlant_Healthy
+SpiderPlant_FungalLeafSpot
+SpiderPlant_LeafTipNecrosis

@@ -1,0 +1,3 @@
+MoneyPlant_Healthy
+MoneyPlant_BacterialWilt
+MoneyPlant_ManganeseToxicity

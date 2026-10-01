@@ -1,0 +1,4 @@
+Rose_Healthy
+Rose_MosaicVirus
+Rose_PestDamage
+Rose_BotrytisBlight

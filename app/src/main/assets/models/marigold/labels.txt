@@ -1,0 +1,3 @@
+Marigold_Healthy
+Marigold_AlternariaLeafBlight
+Marigold_PestDamage
